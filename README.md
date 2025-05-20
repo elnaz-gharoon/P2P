@@ -63,3 +63,8 @@ Kommunikation ist verschlüsselt über SSL/TLS.
 Lizenz
 Dieses Projekt ist unter der MIT-Lizenz lizenziert.
 
+
+Ergebnis :
+![image](https://github.com/user-attachments/assets/3d4dfb2c-8554-4a74-b6c5-17307312b891)
+
+
