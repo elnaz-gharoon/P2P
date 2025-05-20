@@ -65,6 +65,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert.
 
 
 Ergebnis :
-![image](https://github.com/user-attachments/assets/3d4dfb2c-8554-4a74-b6c5-17307312b891)
+![image](https://github.com/user-attachments/assets/6c708205-c0ae-49d5-92c4-244b48787757)
+
 
 
