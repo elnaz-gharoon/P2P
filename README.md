@@ -53,18 +53,18 @@ bash
 java -Djavax.net.ssl.trustStore=chattruststore.p12 -Djavax.net.ssl.trustStorePassword=DEIN_PASSWORT -cp target org.example.SSLChatClient
 Der Client verbindet sich zum Server (localhost:9999).
 ```
-Hinweise
+Hinweise 1
 Ersetze DEIN_PASSWORT durch die echten Passwörter, die du bei der Keystore-/Truststore-Erstellung vergeben hast.
 
 Stelle sicher, dass Server vor dem Client gestartet wird.
 
 Kommunikation ist verschlüsselt über SSL/TLS.
 
-Lizenz
+Lizenz:
 Dieses Projekt ist unter der MIT-Lizenz lizenziert.
 
 
-Ergebnis :
+Ergebnis:
 ![image](https://github.com/user-attachments/assets/6c708205-c0ae-49d5-92c4-244b48787757)
 
 
