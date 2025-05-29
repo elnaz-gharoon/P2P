@@ -1,8 +1,8 @@
 # SSL Chat Projekt
 
 ## Projektbeschreibung
-Dieses Projekt implementiert einen einfachen SSL-gesicherten Chat zwischen Client und Server in Java. Die Kommunikation wird mit TLS/SSL verschlüsselt, um die Datenintegrität und Vertraulichkeit zu gewährleisten.
-
+Dieses Projekt ist eine einfache Client-Server-Chat-Anwendung, die mithilfe von SSL/TLS-Verschlüsselung eine sichere Kommunikation zwischen zwei (oder mehreren) Clients und einem Server ermöglicht.
+Die Verbindung basiert auf Java-Standardklassen (SSLSocket, SSLServerSocket) und verwendet einen selbst erstellten Keystore und Truststore zur Authentifizierung und Verschlüsselung der Nachrichten.
 ---
 
 ## Voraussetzungen
