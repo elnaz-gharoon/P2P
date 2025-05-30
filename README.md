@@ -16,7 +16,7 @@ Die Verbindung basiert auf Java-Standardklassen (SSLSocket, SSLServerSocket) und
 Im Projektordner führe folgenden Befehl aus:
 
 ```bash
-mvn clean package
+mvn compile
 ```
 
 ## Keystore und Truststore erstellen
@@ -25,8 +25,9 @@ Keystore und Truststore erstellen
 bash
 ```
 keytool -genkeypair -alias chatKey -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore chatkeystore.p12 -validity 3650
-Gib ein sicheres Passwort ein.
+
 ```
+und dann <Gib ein sicheres Passwort ein.>
 Fülle die abgefragten Informationen (Name, Organisation etc.) aus.
 
 2. Zertifikat aus Keystore exportieren
